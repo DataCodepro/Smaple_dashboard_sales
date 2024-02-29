@@ -23,7 +23,7 @@ html_title = """
     border-radius:6px;
     }
     </style>
-    <center><h1 class="title-test">Adidas Interactive Sales Dashboard</h1></center>"""
+    <center><h1 class="title-test">Wares Interactive Sales Dashboard Using Addidas Dataset</h1></center>"""
 with col2:
     st.markdown(html_title, unsafe_allow_html=True)
 
